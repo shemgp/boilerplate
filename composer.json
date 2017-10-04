@@ -28,5 +28,12 @@
             "name": "Sébastien HEYD",
             "email": "contact@sheyd.fr"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sebastienheyd\\Boilerplate\\BoilerplateServiceProvider"
+            ]
+        }
+    }
 }
